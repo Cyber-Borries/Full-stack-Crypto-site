@@ -1,0 +1,77 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="card"
+  style={
+    Object {
+      "width": "18rem",
+    }
+  }
+>
+  <div
+    className="card-body"
+  >
+    <div
+      className="card-title h5"
+    >
+      <span
+        className="crypto-name"
+      >
+        Bitcoin
+      </span>
+    </div>
+    <div
+      className="card-title h5"
+    >
+      Coin rank:
+      <br />
+      1
+    </div>
+    <div
+      className="card-title h5"
+    >
+      Date added: 
+      <br />
+      2013-04-28
+    </div>
+    <p
+      className="card-text"
+    >
+      Price 
+      <br />
+      R 358 623,91
+    </p>
+    <p
+      className="card-text"
+    >
+      Circulating Supply 
+      <br />
+      19 265 981
+    </p>
+    <p
+      className="card-text"
+    >
+      Market Cap 
+      <br />
+      403 106 263 970,52
+    </p>
+    <p
+      className="class1 card-text"
+    >
+      % change in the last 1h 
+      <br />
+      0,04
+      %
+    </p>
+    <p
+      className="class2 card-text"
+    >
+      % change in the last 24h 
+      <br />
+      -1,97
+      %
+    </p>
+  </div>
+</div>
+`;
